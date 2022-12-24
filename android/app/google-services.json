@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "747141245936",
+    "project_id": "hereparking-7c86f",
+    "storage_bucket": "hereparking-7c86f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747141245936:android:48b4d1f81a320911710b35",
+        "android_client_info": {
+          "package_name": "com.hereparking.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747141245936-qtcrh00qoiv4aopaauraqoooip65f263.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hereparking.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "747141245936-er7gkftidk6aovr13t0o96m63cu3rocs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCleaevJ4_U1_F8t861EcOtaIXxI7b4Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747141245936-er7gkftidk6aovr13t0o96m63cu3rocs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
